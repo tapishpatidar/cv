@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tapish's Personal Site</title>
+</head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="tapish.JPG" alt="tapish profile pitcure" width="160" height="200"></td>
+            <td><h1>Tapish Patidar</h1>
+                <em><p>Student at<strong> <a href="https://www.uitrgpv.ac.in/">UIT RGPV,Bhopal</a></strong></p></em>
+                <p>I am an Web Develepor.</p></td>
+        </tr>
+    </table>
+    
+ 
+ <hr size="3">
+ <h3>Education</h3>
+ <ul>
+    <li>Class 10th 85% .</li>
+    <li>Class 12th 84% .</li>
+    <li>Currently persuin B.tech Degree in CSE.</li>
+ </ul>
+ <hr size="1">
+ <h3>Personal Details</h3>
+ <table border="1">
+    <tr>
+        <th>Name</th>
+        <th>DOB</th>
+    </tr>
+    <tr>
+        <td>Tapish Patidar</td>
+        <td>8 jan 2002</td>
+    </tr>
+ </table>
+ <hr size="1">
+ <h3>Skills</h3>
+ <table border="1">
+    <tr>
+        <td>
+            <table>
+             <tr>
+               <td>C++</td>
+               <td>⭐⭐⭐⭐⭐</td>
+             </tr>
+             <tr>    
+              <td>Painting</td>
+              <td>⭐⭐⭐⭐⭐</td>
+             </tr>
+            </table>
+        </td>
+        <td>
+           <table> 
+            <tr>
+             <td>Web devlopment</td>
+             <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+             <td>Photography</td>
+             <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+           </table>
+        </td>
+    </tr>   
+ </table>
+ <hr size="3">
+ <a href="hobbies.html"> My Hobbies</a>
+ <p> <a href="contact.html">My Contact Detail</a></p>
+</body>
+</html>
